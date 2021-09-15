@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE wizard[
+<!ELEMENT wizard (days)*>
+<!ELEMENT days (title,place,date,report)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT place (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT report (#PCDATA)>
+]>
+<wizard>
+	<days>
+		<title>Monday</title>
+		<place>Hyderabad</place>
+		<date>23/05/2021</date>
+		<report>Humid,mostly rainy</report>
+	</days>
+	<days>
+		<title>Tuesday</title>
+		<place>Hyderabad</place>
+		<date>24/05/2021</date>
+		<report>Sunny</report>
+	</days>
+	<days>
+		<title>Wednesday</title>
+		<place>Hyderabad</place>
+		<date>25/05/2021</date>
+		<report>Humid,mostly rainy</report>
+	</days>
+	<days>
+		<title>Thursday</title>
+		<place>Hyderabad</place>
+		<date>26/05/2021</date>
+		<report>sunny</report>
+	</days>
+	<days>
+		<title>Friday</title>
+		<place>Hyderabad</place>
+		<date>27/05/2021</date>
+		<report>Cloudy</report>
+	</days>
+	<days>
+		<title>Saturday</title>
+		<place>Hyderabad</place>
+		<date>28/05/2021</date>
+		<report>Sunny</report>
+	</days>
+	<days>
+		<title>Sunday</title>
+		<place>Hyderabad</place>
+		<date>29/05/2021</date>
+		<report>Sunny</report>
+	</days>
+</wizard>

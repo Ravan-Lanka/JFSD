@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+wizard{
+	display: block;
+}
+name{
+	background-color:green;
+}
+
+gender{
+	background-color:blue;
+}
+
+address{
+	background-color:red;
+}

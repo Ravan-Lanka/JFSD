@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/css" href = "my.css"?>
+<bank>
+	<wizard>
+		<name>John</name>
+		<gender>Male</gender>
+		<address>Hyderabad</address>
+	</wizard>
+	<wizard>
+		<name>Rajesh</name>
+		<gender>Male</gender>
+		<address>Hyderabad</address>
+	</wizard>
+	<wizard>
+		<name>Rakesh</name>
+		<gender>Male</gender>
+		<address>Hyderabad</address>
+	</wizard>
+</bank>
