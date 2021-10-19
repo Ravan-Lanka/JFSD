@@ -52,3 +52,14 @@ Note: Use Statement and Prepared Statements
 
   c. She is much more excited after completing the task given by Professor Trelawney. Then she visited A wizarding bank that wants to store some data regarding wizards and goblins. Hogwarts is a place where almost every person knows everything, the wizarding bank staff came to know that Hermione is studying XML, so they requested her to Create a well-formed XML for displaying the details of the wizards and goblins of the bank and provide some additional information about the details like gender, address etc. and link to the CSS stylesheet.
 
+
+**Student Registration**
+---------------------------
+Code To create Database:
+
+create database JFSD_Student;
+
+use JFSD_Student;
+
+
+create table Stud(uname varchar(30) primary key, password varchar(30), email varchar(45), phone varchar(45));
